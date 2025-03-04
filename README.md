@@ -4,8 +4,8 @@
 
 ## 分類
 ### Gemini Quickstarts
-- Get Started with the Multimodal Live API [原文](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb) [中文](./gemini/intro_multimodal_live_api_genai_sdk.ipynb)
-- Intro to Vertex AI RAG Engine [原文](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/rag-engine/intro_rag_engine.ipynb) [中文](./gemini/intro_rag_engine.ipynb)
+- Get Started with the Multimodal Live API ([原文](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb)) ([中文](./gemini/intro_multimodal_live_api_genai_sdk.ipynb))
+- Intro to Vertex AI RAG Engine ([原文](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/rag-engine/intro_rag_engine.ipynb)) ([中文](./gemini/intro_rag_engine.ipynb))
 
 ### Featured Tutorials
 
